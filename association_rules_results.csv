@@ -1,0 +1,8 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'eco_A00'}),frozenset({'winner_black'}),0.028417588991923422,0.5660377358490566,1.2466877023894123
+frozenset({'eco_B20'}),frozenset({'winner_black'}),0.015953734170904378,0.5643738977072311,1.2430231294840939
+frozenset({'eco_B00'}),frozenset({'winner_white'}),0.018197228038687806,0.5973813420621931,1.198107685139833
+frozenset({'eco_C20'}),frozenset({'winner_black'}),0.017698673845847043,0.5259259259259259,1.1583421787879897
+frozenset({'eco_C41'}),frozenset({'winner_white'}),0.019742746036494167,0.5730824891461649,1.149373919337444
+frozenset({'eco_A40'}),frozenset({'winner_white'}),0.016851131718017748,0.546925566343042,1.0969136096099128
+frozenset({'eco_B01'}),frozenset({'winner_white'}),0.017848240103699273,0.5,1.0027997200279972

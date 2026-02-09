@@ -1,0 +1,4 @@
+
+Best params: {'n_neighbors': 7, 'weights': 'distance'}
+Best score: 0.503365341497081
+Test accuracy: 0.5154053245587795

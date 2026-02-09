@@ -1,0 +1,4 @@
+
+Best params: {'epochs': 30, 'model__dropout': 0.3, 'model__input_dim': 17554, 'model__units': 64}
+Best score: 0.5957970046865251
+Test accuracy: 0.5854023332336225
